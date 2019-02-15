@@ -13,6 +13,7 @@ function Square(props) {
 
 class Board extends React.Component {
     const test1 = 1;
+    const modif-on-branch-git-kraken = 0;
     renderSquare(i) {
         return (
             <Square

@@ -12,6 +12,7 @@ function Square(props) {
 }
 
 class Board extends React.Component {
+    const test1 = 1;
     renderSquare(i) {
         return (
             <Square
@@ -22,6 +23,7 @@ class Board extends React.Component {
     }
 
     render() {
+        const test2 = 2;
         return (
             <div>
                 <div className="board-row">
